@@ -5,6 +5,7 @@ Here , Following stuff are done using Tkinter All are basic functions using Tkin
 1. Shown minsize()
 2.Shown maxsize()
 3. Label in Tkinter
+
 4. How we can include image in a GUI using Tkinter
 - Images are generally in the form of png. One can pip install pillow to incorporate jpg images too
 5.Geometry and Pack are shown too
